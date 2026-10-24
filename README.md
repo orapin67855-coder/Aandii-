@@ -6,7 +6,7 @@
 1. ติดตั้ง Node.js 20 ขึ้นไป
 2. `npm install`
 3. คัดลอก `.env.example` เป็น `.env.local` (ใส่ค่า Supabase ภายหลังได้ หน้าข้อมูลสาธิตรันได้ก่อน)
-4. `npm run dev` แล้วเปิด http://localhost:3000
+4. `npm run dev` แล้วเปิด h[ttp://localhost:3000](https://aandii.vercel.app/buddy)
 5. ตรวจโค้ด: `npm run typecheck` และ `npm run lint`
 
 ## ฐานข้อมูล
